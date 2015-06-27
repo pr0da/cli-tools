@@ -1,0 +1,15 @@
+{
+  "name": "@pr0da/svn-co-trunk",
+  "version": "0.1.0",
+  "description": "Just some cli tools.",
+  "bin": {
+    "svn-co-trunk": "bin/svn-co-trunk.js",
+	"github-starred2opml" : "bin/github-starred2opml.js"
+  },
+  "dependencies": {
+        "minimist": "^1.1.1",
+        "opml-generator": "^1.1.1"
+    },
+  "author": "pr0da",
+  "license": "WTFPL"
+}
